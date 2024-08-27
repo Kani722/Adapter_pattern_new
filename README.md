@@ -8,11 +8,11 @@ The main class DuckTestDrive demonstrates the use of the adapter design pattern.
 
 ### Classes
 
-Duck: An interface with methods quack() and fly().
-MallardDuck: A class implementing the Duck interface.
-Turkey: An interface with methods gobble() and fly().
-WildTurkey: A class implementing the Turkey interface.
-TurkeyAdapter: A class implementing the Duck interface that adapts a Turkey to be used where a Duck is expected.
++ Duck: An interface with methods quack() and fly().
++ MallardDuck: A class implementing the Duck interface.
++ Turkey: An interface with methods gobble() and fly().
++ WildTurkey: A class implementing the Turkey interface.
++ TurkeyAdapter: A class implementing the Duck interface that adapts a Turkey to be used where a Duck is expected.
 
 ### Main Class: DuckTestDrive
 
